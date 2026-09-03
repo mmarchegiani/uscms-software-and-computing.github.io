@@ -33,6 +33,11 @@ project_goal: >
 proposal: /assets/pdfs/Matteo-Marchegiani_proposal_2026.pdf
 
 presentations:
+  - title: Comparison of merging algorithms for MC truth in HGCAL
+    date: September 1, 2026
+    url: https://indico.cern.ch/event/1721040/contributions/7240569/attachments/3335528/5976552/26.09.01_ML4reco_merging_comparison.pdf
+    meeting: ML4RECO
+    meetingurl: https://indico.cern.ch/event/1721040/
   - title: GNN-based end-to-end reconstruction in the CMS Phase-2 High-Granularity Calorimeter
     date: May 25, 2026
     url: https://indico.cern.ch/event/1471803/contributions/6967243/attachments/3281070/5863445/CHEP-2026_GNN-based_end-to-end_reconstruction_CMS-HGCAL.pdf
